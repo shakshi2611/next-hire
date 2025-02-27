@@ -24,11 +24,11 @@ const Home = () => {
         </button>
 
         {/* Icons at the Bottom */}
-        <div className="mt-10 flex gap-4 sm:gap-6">
+        {/* <div className="mt-10 flex gap-4 sm:gap-6">
           <FaBriefcase className="text-gray-400 hover:text-gray-600 cursor-pointer transition-colors duration-300 text-2xl sm:text-3xl" />
           <FaSearch className="text-gray-400 hover:text-gray-600 cursor-pointer transition-colors duration-300 text-2xl sm:text-3xl" />
           <FaUser className="text-gray-400 hover:text-gray-600 cursor-pointer transition-colors duration-300 text-2xl sm:text-3xl" />
-        </div>
+        </div> */}
       </div>
     </div>
   );
